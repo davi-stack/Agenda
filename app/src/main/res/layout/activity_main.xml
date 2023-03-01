@@ -9,8 +9,6 @@
     tools:context=".MainActivity">
 
 
-
-
     <TextView
         android:id="@+id/mes"
         android:layout_width="match_parent"
@@ -50,7 +48,7 @@
         <Button
             android:id="@+id/mondays"
             style="@style/Day_Button"
-            android:text="S"
+            android:text="Seg"
             />
         <Button
             android:id="@+id/mondays"
@@ -61,6 +59,11 @@
             android:id="@+id/mondays"
             style="@style/Day_Button"
             android:text="Qua"
+            />
+        <Button
+            android:id="@+id/mondays"
+            style="@style/Day_Button"
+            android:text="Qui"
             />
         <Button
             android:id="@+id/mondays"
@@ -87,7 +90,7 @@
         <Button
             android:id="@+id/mondays"
             style="@style/Day_Button"
-            android:text="S"
+            android:text="Seg"
             />
         <Button
             android:id="@+id/mondays"
@@ -98,6 +101,11 @@
             android:id="@+id/mondays"
             style="@style/Day_Button"
             android:text="Qua"
+            />
+        <Button
+            android:id="@+id/mondays"
+            style="@style/Day_Button"
+            android:text="Qui"
             />
         <Button
             android:id="@+id/mondays"
@@ -124,7 +132,7 @@
         <Button
             android:id="@+id/mondays"
             style="@style/Day_Button"
-            android:text="S"
+            android:text="Seg"
             />
         <Button
             android:id="@+id/mondays"
@@ -135,6 +143,11 @@
             android:id="@+id/mondays"
             style="@style/Day_Button"
             android:text="Qua"
+            />
+        <Button
+            android:id="@+id/mondays"
+            style="@style/Day_Button"
+            android:text="Qui"
             />
         <Button
             android:id="@+id/mondays"
@@ -161,7 +174,7 @@
         <Button
             android:id="@+id/mondays"
             style="@style/Day_Button"
-            android:text="S"
+            android:text="Seg"
             />
         <Button
             android:id="@+id/mondays"
@@ -172,6 +185,11 @@
             android:id="@+id/mondays"
             style="@style/Day_Button"
             android:text="Qua"
+            />
+        <Button
+            android:id="@+id/mondays"
+            style="@style/Day_Button"
+            android:text="Qui"
             />
         <Button
             android:id="@+id/mondays"
@@ -198,7 +216,7 @@
         <Button
             android:id="@+id/mondays"
             style="@style/Day_Button"
-            android:text="S"
+            android:text="Seg"
             />
         <Button
             android:id="@+id/mondays"
@@ -209,6 +227,11 @@
             android:id="@+id/mondays"
             style="@style/Day_Button"
             android:text="Qua"
+            />
+        <Button
+            android:id="@+id/mondays"
+            style="@style/Day_Button"
+            android:text="Qui"
             />
         <Button
             android:id="@+id/mondays"
@@ -235,7 +258,7 @@
         <Button
             android:id="@+id/mondays"
             style="@style/Day_Button"
-            android:text="S"
+            android:text="Seg"
             />
         <Button
             android:id="@+id/mondays"
@@ -246,6 +269,11 @@
             android:id="@+id/mondays"
             style="@style/Day_Button"
             android:text="Qua"
+            />
+        <Button
+            android:id="@+id/mondays"
+            style="@style/Day_Button"
+            android:text="Qui"
             />
         <Button
             android:id="@+id/mondays"
@@ -272,7 +300,7 @@
         <Button
             android:id="@+id/mondays"
             style="@style/Day_Button"
-            android:text="S"
+            android:text="Seg"
             />
         <Button
             android:id="@+id/mondays"
@@ -287,6 +315,11 @@
         <Button
             android:id="@+id/mondays"
             style="@style/Day_Button"
+            android:text="Qui"
+            />
+        <Button
+            android:id="@+id/mondays"
+            style="@style/Day_Button"
             android:text="Sex"
             />
         <Button
@@ -295,5 +328,4 @@
             android:text="Sab"
             />
     </LinearLayout>
-
-</LinearLayout>
+        </LinearLayout>
