@@ -13,7 +13,7 @@
         android:id="@+id/mes"
         android:layout_width="match_parent"
         android:layout_height="80dp"
-        android:text="Mês"
+        android:text="Mes"
         android:textColor="@color/black"
         android:textSize="40sp"
         android:gravity="center"
@@ -31,9 +31,6 @@
         android:layout_marginEnd="10dp"
         android:maxLines="1"/>
 
-
-
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -41,37 +38,37 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Sundays"
             style="@style/Day_Button"
             android:text="Dom"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Mondays"
             style="@style/Day_Button"
             android:text="Seg"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/TuesDays"
             style="@style/Day_Button"
             android:text="Ter"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Wednesday"
             style="@style/Day_Button"
             android:text="Qua"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Thursdays"
             style="@style/Day_Button"
             android:text="Qui"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Fridays"
             style="@style/Day_Button"
             android:text="Sex"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Saturdays"
             style="@style/Day_Button"
             android:text="Sab"
             />
@@ -83,37 +80,37 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Sunday1"
             style="@style/Day_Button"
             android:text="Dom"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Monday1"
             style="@style/Day_Button"
             android:text="Seg"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/TuesDay1"
             style="@style/Day_Button"
             android:text="Ter"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Wednesda1"
             style="@style/Day_Button"
             android:text="Qua"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Thursday1"
             style="@style/Day_Button"
             android:text="Qui"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Friday1"
             style="@style/Day_Button"
             android:text="Sex"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Saturday1"
             style="@style/Day_Button"
             android:text="Sab"
             />
@@ -125,37 +122,37 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Sunday2"
             style="@style/Day_Button"
             android:text="Dom"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Monday2"
             style="@style/Day_Button"
             android:text="Seg"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/TuesDay2"
             style="@style/Day_Button"
             android:text="Ter"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Wednesday2"
             style="@style/Day_Button"
             android:text="Qua"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Thursday2"
             style="@style/Day_Button"
             android:text="Qui"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Friday2"
             style="@style/Day_Button"
             android:text="Sex"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Saturday2"
             style="@style/Day_Button"
             android:text="Sab"
             />
@@ -167,37 +164,37 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Sunday3"
             style="@style/Day_Button"
             android:text="Dom"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Monday3"
             style="@style/Day_Button"
             android:text="Seg"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/TuesDay3"
             style="@style/Day_Button"
             android:text="Ter"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Wednesday3"
             style="@style/Day_Button"
             android:text="Qua"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Thursday3"
             style="@style/Day_Button"
             android:text="Qui"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Friday3"
             style="@style/Day_Button"
             android:text="Sex"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Saturday3"
             style="@style/Day_Button"
             android:text="Sab"
             />
@@ -209,37 +206,37 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Sunday4"
             style="@style/Day_Button"
             android:text="Dom"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Monday4"
             style="@style/Day_Button"
             android:text="Seg"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/TuesDay4"
             style="@style/Day_Button"
             android:text="Ter"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Wednesday4"
             style="@style/Day_Button"
             android:text="Qua"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Thursday4"
             style="@style/Day_Button"
             android:text="Qui"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Friday4"
             style="@style/Day_Button"
             android:text="Sex"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Saturday4"
             style="@style/Day_Button"
             android:text="Sab"
             />
@@ -251,81 +248,42 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Sunday5"
             style="@style/Day_Button"
             android:text="Dom"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Monday5"
             style="@style/Day_Button"
             android:text="Seg"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/TuesDay5"
             style="@style/Day_Button"
             android:text="Ter"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Wednesday5"
             style="@style/Day_Button"
             android:text="Qua"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Thursday5"
             style="@style/Day_Button"
             android:text="Qui"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Friday5"
             style="@style/Day_Button"
             android:text="Sex"
             />
         <Button
-            android:id="@+id/mondays"
+            android:id="@+id/Saturday5"
             style="@style/Day_Button"
             android:text="Sab"
             />
     </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="0.8"
-        android:orientation="horizontal">
 
-        <Button
-            android:id="@+id/mondays"
-            style="@style/Day_Button"
-            android:text="Dom"
-            />
-        <Button
-            android:id="@+id/mondays"
-            style="@style/Day_Button"
-            android:text="Seg"
-            />
-        <Button
-            android:id="@+id/mondays"
-            style="@style/Day_Button"
-            android:text="Ter"
-            />
-        <Button
-            android:id="@+id/mondays"
-            style="@style/Day_Button"
-            android:text="Qua"
-            />
-        <Button
-            android:id="@+id/mondays"
-            style="@style/Day_Button"
-            android:text="Qui"
-            />
-        <Button
-            android:id="@+id/mondays"
-            style="@style/Day_Button"
-            android:text="Sex"
-            />
-        <Button
-            android:id="@+id/mondays"
-            style="@style/Day_Button"
-            android:text="Sab"
-            />
-    </LinearLayout>
+
+
         </LinearLayout>
